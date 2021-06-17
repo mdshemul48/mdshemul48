@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Shimul</h1>
-<h3 align="center">I love to learn new things everyday. Right now, I'm trying to learn full stack web development.</h3>
+<h3 align="center">I love to learn new things everyday. Now days, I'm trying to learn full stack web development.</h3>
 
 - 🔭 I’m currently working on [MY CLONE](https://github.com/mdshemul48/MY-CLONE) an automated movie management system.
 
