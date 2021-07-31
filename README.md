@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. Shimul</h1>
-<h3 align="center">I love to learn new things everyday. Now days, I'm trying to learn full stack web development.</h3>
+<p align="center">Highly motivated professional software engineer, familiar with a variety of programming languages. I’m always adding new skills to my repertoire. Looking for an opportunity to demonstrate my programming skills.
+</p>
 
 - 🔭 I’m currently working on [MY CLONE](https://github.com/mdshemul48/MY-CLONE) an automated movie management system.
 
