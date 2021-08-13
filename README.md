@@ -3,7 +3,7 @@
 Welcome to my page! </br> I'm <b>MD. Shimul</b>, Fullstack developer from <img src="https://image.flaticon.com/icons/png/512/323/323299.png" width="13"/> <b>Dhaka, Bangladesh</b>.</p>
 Highly motivated professional developer, familiar with a variety of programming languages. I’m always adding new skills to my repertoire. Looking for an opportunity to demonstrate my programming skills.
 
-- 🔭 I’m currently working at at [complete blog site with mern redux](https://github.com/mdshemul48/complete-blog-site-with-mern-redux)
+- 🔭 I’m currently working at at [social media clone with mern typescript redux toolkit](https://github.com/mdshemul48/social-media-clone-with-mern-typescript-redux-toolkit)
 - 💻 Most used line of code `git add . && git commit -m 'adding something'`
 - 🤔 I’m looking for some project to work.
 - 📫 How to reach me: mdshemul480@gmail.com.
