@@ -43,7 +43,8 @@ Highly motivated professional web developer, familiar with a variety of programm
 
 ### GitHub Stats
 
-![md Shimul GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshemul48&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdshemul48&theme=github_dark&pro)
+
 
 ### Coding Stats
 
