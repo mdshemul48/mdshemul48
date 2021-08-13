@@ -1,6 +1,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
-Welcome to my page! </br> I'm <b>MD. Shimul</b>, Fullstack developer from <img src="https://image.flaticon.com/icons/png/512/323/323299.png" width="13"/> <b>Dhaka,Bangladesh</b>.</p>
+Welcome to my page! </br> I'm <b>MD. Shimul</b>, Fullstack developer from <img src="https://image.flaticon.com/icons/png/512/323/323299.png" width="13"/> <b>Dhaka, Bangladesh</b>.</p>
 Highly motivated professional web developer, familiar with a variety of programming languages. I’m always adding new skills to my repertoire. Looking for an opportunity to demonstrate my programming skills.
 
 - 🔭 I’m currently working at at [complete blog site with mern redux](https://github.com/mdshemul48/complete-blog-site-with-mern-redux)
