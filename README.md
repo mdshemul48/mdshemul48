@@ -41,9 +41,11 @@ Highly motivated professional web developer, familiar with a variety of programm
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Working Statistics
+### GitHub Stats
 
 ![md Shimul GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshemul48&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+### Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
