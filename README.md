@@ -42,10 +42,8 @@ Highly motivated professional web developer, familiar with a variety of programm
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdshemul48&theme=github_dark&pro)
-
-
+![](https://raw.githubusercontent.com/mdshemul48/mdshemul48/main/profile-summary-card-output/dracula/3-stats.svg)
+![](https://raw.githubusercontent.com/mdshemul48/mdshemul48/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
 ### Coding Stats
 
 <!--START_SECTION:waka-->
