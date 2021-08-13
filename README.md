@@ -44,3 +44,6 @@ Highly motivated professional web developer, familiar with a variety of programm
 ### Working Statistics
 
 ![mdshemul48 GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshemul48&show_icons=true&theme=dark&hide_border=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
