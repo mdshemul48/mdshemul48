@@ -4,7 +4,7 @@ Welcome to my page! </br> I'm <b>MD. Shimul</b>, Fullstack developer from <img s
 Highly motivated professional developer, familiar with a variety of programming languages. I’m always adding new skills to my repertoire. Looking for an opportunity to demonstrate my programming skills.
 
 - 🔭 I’m currently working at [social media clone with mern typescript redux toolkit](https://github.com/mdshemul48/social-media-clone-with-mern-typescript-redux-toolkit)
-- 💻 Most used line of code `()=> {}'`
+- 💻 Most used line of code `()=> {}`
 - 🤔 I’m looking for some project to work.
 - 📫 How to reach me: mdshemul480@gmail.com.
 
