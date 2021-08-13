@@ -43,7 +43,7 @@ Highly motivated professional web developer, familiar with a variety of programm
 
 ### GitHub Stats
 ![](https://raw.githubusercontent.com/mdshemul48/mdshemul48/main/profile-summary-card-output/dracula/3-stats.svg)
-![](https://raw.githubusercontent.com/mdshemul48/mdshemul48/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/mdshemul48/mdshemul48/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
 ### Coding Stats
 
 <!--START_SECTION:waka-->
