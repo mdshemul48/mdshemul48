@@ -3,15 +3,15 @@
 Welcome to my page! </br> I'm <b>MD. Shimul</b>, Fullstack developer from <img src="https://image.flaticon.com/icons/png/512/323/323299.png" width="13"/> <b>Dhaka,Bangladesh</b>.</p>
 Highly motivated professional web developer, familiar with a variety of programming languages. I’m always adding new skills to my repertoire. Looking for an opportunity to demonstrate my programming skills.
 
-<a href="https://mdshemul48.github.io">
-
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-</a>
-
 - 🔭 I’m currently working at at [complete blog site with mern redux](https://github.com/mdshemul48/complete-blog-site-with-mern-redux)
 - 💻 Most used line of code `git add . && git commit -m 'adding something'`
 - 🤔 I’m looking for some project to work.
 - 📫 How to reach me: mdshemul480@gmail.com.
+
+<a href="https://mdshemul48.github.io">
+
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+</a>
 
 <h3>Things I code with</h3>
 
@@ -34,3 +34,7 @@ Highly motivated professional web developer, familiar with a variety of programm
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Working Statistics
+
+![mdshemul48 GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshemul48&show_icons=true&theme=dark&hide_border=true)
