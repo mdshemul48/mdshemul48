@@ -43,7 +43,7 @@ Welcome to my page! </br> I'm <b>MD. Shimul</b>, Fullstack developer from <img s
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 August, 2021 - 23 August, 2021
+Week: 18 August, 2021 - 24 August, 2021
 
 TypeScript   12 hrs 4 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.59 % 
 JavaScript   8 hrs 42 mins   ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.40 % 
