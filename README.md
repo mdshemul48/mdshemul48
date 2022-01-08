@@ -43,6 +43,8 @@ Welcome to my page! </br> I'm <b>MD. Shimul</b>, Fullstack developer from <img s
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 January, 2022 - 07 January, 2022
+
+
 ```
 <!--END_SECTION:waka-->
