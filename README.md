@@ -44,7 +44,7 @@ Welcome to my page! </br> I'm <b>MD. Shimul</b>, Fullstack developer from <img s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2024 - To: 23 May 2024
+From: 17 May 2024 - To: 24 May 2024
 
 PHP              10 hrs 7 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   80.05 %
 Blade Template   2 hrs 30 mins   ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.82 %
